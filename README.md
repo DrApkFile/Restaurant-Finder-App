@@ -56,8 +56,8 @@ restaurant-finder/
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/DrApkFile/Restaurant-FinderApp.git
-   cd Restaurant-FinderApp
+   git clone https://github.com/DrApkFile/Restaurant-Finder-App.git
+   cd Restaurant-Finder-App
    \`\`\`
 
 2. Start the backend services using Docker Compose:
